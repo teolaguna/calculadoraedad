@@ -1,0 +1,21 @@
+# Git
+*.log
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# C++
+*.exe
+*.o
+*.obj
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Heavy/large files
+*.zip
+*.rar
